@@ -1,3 +1,9 @@
+'''
+
+Copyright (c) liyankai
+All right reserved
+
+'''
 def nine_nine():
     heng = 1
     shu = 1
